@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n5KeKFKFaIAnWvxeS4ShGOAPU5ZBleGhHqA52wy7SbM=",
+  "Source": "Web_API_DB",
+  "BasePath": "_content/Web_API_DB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
